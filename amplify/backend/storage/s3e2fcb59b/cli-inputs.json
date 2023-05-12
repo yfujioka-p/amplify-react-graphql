@@ -1,0 +1,14 @@
+{
+  "resourceName": "s3e2fcb59b",
+  "policyUUID": "e2fcb59b",
+  "bucketName": "amplifyreactgraphqleede49e439684a499fb5e65ce01a",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "S3Triggerb1b8abd2",
+  "groupAccess": {}
+}
